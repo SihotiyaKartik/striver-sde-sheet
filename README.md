@@ -25,5 +25,13 @@
 - [Grid Unique paths](https://leetcode.com/problems/unique-paths/)
 - [reverse pairs(leetcode)](https://leetcode.com/problems/reverse-pairs/)
 
+### Day 4
+- [2 Sum Problems](https://leetcode.com/problems/two-sum/)
+- [4 Sum Problem](https://leetcode.com/problems/4sum/)
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [Longest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+- [Count number of subarrays with given Xor K](https://www.interviewbit.com/problems/subarray-with-given-xor/)
+- [Longest subtring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
 
 
