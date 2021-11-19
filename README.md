@@ -17,4 +17,21 @@
 - [Repeat the missing number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
 - [Inversion of Array](https://www.codingninjas.com/codestudio/problems/count-inversions_615)
 
+### Day 3
+- [Search in a 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- [Pow(X,n)](https://leetcode.com/problems/powx-n/)
+- [Majority Element(>N/2 times)](https://leetcode.com/problems/majority-element/)
+- [Majority Element(>N/3 times)](https://leetcode.com/problems/majority-element-ii/)
+- [Grid Unique paths](https://leetcode.com/problems/unique-paths/)
+- [reverse pairs(leetcode)](https://leetcode.com/problems/reverse-pairs/)
+
+### Day 4
+- [2 Sum Problems](https://leetcode.com/problems/two-sum/)
+- [4 Sum Problem](https://leetcode.com/problems/4sum/)
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [Longest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+- [Count number of subarrays with given Xor K](https://www.interviewbit.com/problems/subarray-with-given-xor/)
+- [Longest subtring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+
 
