@@ -31,7 +31,28 @@
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [Longest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
 - [Count number of subarrays with given Xor K](https://www.interviewbit.com/problems/subarray-with-given-xor/)
-- [Longest subtring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [Longest subtring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 
+### Day 5
+- [Reverse a linked list](https://leetcode.com/problems/reverse-linked-list/)
+- [Find middle of Linkd list](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [Merge two sorted linked list](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [Remove N-th node from back of LinkedList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [Add two numbers as LinkedList](https://leetcode.com/problems/add-two-numbers/)
+- [Delete a given Node when a node is given. (0(1) solution)](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
+### Day 6
+- [Find intersection point of Y LinkedList](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [Detect a cycle in Linked List](https://leetcode.com/problems/linked-list-cycle/)
+- [Reverse a LinkedList in groups of size k. ](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [Check if a LinkedList is palindrome or not.](https://leetcode.com/problems/palindrome-linked-list/)
+- [Find the starting point of the Loop of LinkedList](https://leetcode.com/problems/linked-list-cycle-ii/)
+- [Flattening of a LinkedList](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
+- [Rotate a LinkedList](https://leetcode.com/problems/rotate-list/description/)
 
+### Day 7
+- [Clone a Linked List with random and next pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
+- [3 Sum](https://leetcode.com/problems/3sum/)
+- [Trapping rainwater](https://leetcode.com/problems/trapping-rain-water/)
+- [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/)
