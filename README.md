@@ -56,3 +56,11 @@
 - [Trapping rainwater](https://leetcode.com/problems/trapping-rain-water/)
 - [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/)
+
+### Day 8
+- [N meeting in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
+- [Minimum number of platforms required for a railway](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)
+- [Job sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#)
+- [Fractional Knapsack Problem](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
+- [Greedy algorithm to find minimum number of coins](https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/)
+- [Activity Selection](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
